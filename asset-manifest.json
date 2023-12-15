@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nourin0098/todo_react/static/css/main.20a840fb.css",
+    "main.js": "/nourin0098/todo_react/static/js/main.4d1a3d20.js",
+    "index.html": "/nourin0098/todo_react/index.html",
+    "main.20a840fb.css.map": "/nourin0098/todo_react/static/css/main.20a840fb.css.map",
+    "main.4d1a3d20.js.map": "/nourin0098/todo_react/static/js/main.4d1a3d20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20a840fb.css",
+    "static/js/main.4d1a3d20.js"
+  ]
+}
